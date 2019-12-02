@@ -2,4 +2,4 @@
 
 ## About Project
 
-1. This is a web that can change background color gradient or random color.
+This is a web that can change background color gradient or random color.
