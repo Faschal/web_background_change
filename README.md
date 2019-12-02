@@ -1,4 +1,4 @@
-# ${1:Web Background Gradient Changer}
+# Web Background Gradient Changer
 
 ## About Project
 
